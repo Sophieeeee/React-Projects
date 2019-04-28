@@ -1,0 +1,12 @@
+.metronome {
+  text-align: center;
+  max-width: 375px;
+  margin: 0 auto;
+  padding: 30px;
+  margin-top: 10%;
+}
+
+.slider input {
+  width: 80%;
+  margin: 10px;
+}
